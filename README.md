@@ -59,6 +59,8 @@
       />
       <br /><strong>jQuery</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
@@ -82,7 +84,7 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shadcn/shadcn-original.svg"
         width="48"
         height="48"
-        alt="S"
+        alt="Shadcn"
       />
       <br /><strong>Shadcn</strong>
     </td>
@@ -104,6 +106,8 @@
       />
       <br /><strong>Linux</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
@@ -113,8 +117,10 @@
       />
       <br /><strong>Command Line</strong>
     </td>
+    <td colspan="4"></td> <!-- Empty cells to maintain table structure -->
   </tr>
 </table>
+
 
 <br>
 
