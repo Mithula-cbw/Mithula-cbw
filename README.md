@@ -34,6 +34,15 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+        width="48"
+        height="48"
+        alt="Tailwind CSS"
+      />
+      <br /><strong>Tailwind CSS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
         width="48"
         height="48"
@@ -52,12 +61,30 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>React</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="48"
         height="48"
         alt="Git"
       />
       <br /><strong>Git</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shadcn/shadcn-original.svg"
+        width="48"
+        height="48"
+        alt="S"
+      />
+      <br /><strong>Shadcn</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
