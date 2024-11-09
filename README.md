@@ -59,6 +59,8 @@
       />
       <br /><strong>jQuery</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
@@ -76,17 +78,6 @@
         alt="Git"
       />
       <br /><strong>Git</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shadcn/shadcn-original.svg"
-        width="48"
-        height="48"
-        alt="Shadcn"
-      />
-      <br /><strong>Shadcn</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -115,10 +106,51 @@
       />
       <br /><strong>Command Line</strong>
     </td>
-    <td colspan="3"></td> <!-- Empty cells to maintain table structure -->
   </tr>
 </table>
 
+<!-- Tools Table -->
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+        width="48"
+        height="48"
+        alt="Express"
+      />
+      <br /><strong>Express</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        width="48"
+        height="48"
+        alt="Node.js"
+      />
+      <br /><strong>Node.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+        width="48"
+        height="48"
+        alt="MySQL"
+      />
+      <br /><strong>MySQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
+        width="48"
+        height="48"
+        alt="Postman"
+      />
+      <br /><strong>Postman</strong>
+    </td>
+    <td colspan="1"></td> <!-- Empty cell to maintain table structure -->
+  </tr>
+</table>
 
 <br>
 
